@@ -53,7 +53,7 @@ To create a comfortable environment.
       | --- | --- |
       | **Tech. specialist** | - Hello! (smile :)) |
       | **Applicant** | - Hello! |
-      | **Tech. specialist** | - My name is Jon. |
+      | **Tech. specialist** | - My name is Jhon. |
       | **Applicant** | - Pleasant, Jack. |
       | **Tech. specialist** | - It's nice Jack, how are you? |
       | **Applicant** | - Good, thanks, and how are you? |
