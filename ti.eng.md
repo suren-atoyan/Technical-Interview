@@ -93,7 +93,7 @@ To illustrate the organization of correct sequence of technical questions, we sh
 
       | | |
       | --- | --- |
-      | 1 | - Describe setTimeout as a function.<br/>* Not important questions: <br/>1. Can the first argument of setTimeout not be a function? <br/>2. is there a third argument for setTimeout, if yes what does it represent and has it limitations, if yes, then what kind of limitations? |
+      | 1 | - Describe setTimeout as a function.<br/>* Not important questions: <br/>1. Can the first argument of setTimeout not be a function? <br/>2. Is there a third argument for setTimeout, if yes what does it represent and has it limitations, if yes, then what kind of limitations? |
       | 2 | - Give a mathematical claim for the second argument of setTimeout. |
       | 3 | - Detailed description of setTimeout's work. |
       | 4 | - Recursive setTimeout and setInterval. |
@@ -105,7 +105,7 @@ To illustrate the organization of correct sequence of technical questions, we sh
       | 10 | - setTimeouts’ execution order - FIFO, LIFO, random |
 
       If we do not set the correct sequence, and then start talking about setTimeout starting with Question 6 or its specific case, for example:  
-      &#45; Please enter DOM_MIN_TIMEOUT_VALUE or DOM_CLAMP_TIMEOUT_NESTING_LEVEL in Google Chrome and FireFox?  
+       &#45; Please enter DOM_MIN_TIMEOUT_VALUE or DOM_CLAMP_TIMEOUT_NESTING_LEVEL in Google Chrome and FireFox.  
       then the wrong answer to the question or the lack of a response can not give any information about the applicant's setTimeout knowledge.  
 
       **Use the right sequence of questions.**
