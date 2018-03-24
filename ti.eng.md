@@ -46,7 +46,7 @@ In the case if the applicant is strained, this fact can have an impact on his an
 To create a comfortable environment.
 
   * It is desirable to conduct a technical interview with one or two tech. specialist, but not more [(1)](#note-1).
-  * Do not start immediately with technical questions. For example: 
+  * Do not start immediately with technical questions. <details> <summary>For example: </summary>
   
       | | |
       | --- | --- |
@@ -60,6 +60,8 @@ To create a comfortable environment.
       | **Applicant** | - In fighting mood:) |
       | **Tech. specialist** | - Ok, Jack, it will be technical interview, mostly from JavaScript, but before I go through formal inquiries, I  want some information about you, ok? Tell a little about yourself, education, experience and more. |
       | **Applicant** | - ... |
+      
+      </details>
   * Maximally avoid denying the applicant's thoughts during the interview (**"You are wrong"**, **"The claim was not correct"**, etc.). At the end of the interview you can go through all his mistakes, give advice etc, if the applicant wishes. [(2)](#note-2). At the same time, the interview should not present one-sided questions. For example:  
       
       | | |
