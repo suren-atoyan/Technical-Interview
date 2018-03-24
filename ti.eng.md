@@ -104,9 +104,9 @@ To illustrate the organization of correct sequence of technical questions, we sh
       | 9 | - Task, MicroTask, differences, execution order, implementation in different browsers. |
       | 10 | - setTimeouts’ execution order - FIFO, LIFO, random |
 
-      If we do not set the correct sequence, and then start talking about setTimeout starting with Question 6 or its specific case, for example:  
+      Let's consider that we do not set the correct sequence, and then start talking about setTimeout starting with Question 6 or its specific case, for example:  
        &#45; Please enter DOM_MIN_TIMEOUT_VALUE or DOM_CLAMP_TIMEOUT_NESTING_LEVEL in Google Chrome and FireFox.  
-      then the wrong answer to the question or the lack of a response can not give any information about the applicant's setTimeout knowledge.  
+      In that case the wrong answer to the question or the lack of a response can not give any information about the applicant's setTimeout knowledge.  
 
       **Use the right sequence of questions.**
   
