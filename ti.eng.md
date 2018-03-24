@@ -254,7 +254,7 @@ Importance of Technical Interview
 ========
 
 Any technical interviewing course unequivocally shows the technical level of the company.
-<hr />
+<br />
 Based on the assessment of the interviewer, the company may employ the applicant. An incorrect assessment of the interviewer may cause problems later on.
 
 - - - -
