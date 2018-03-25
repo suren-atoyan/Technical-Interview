@@ -128,14 +128,13 @@ To illustrate the organization of correct sequence of technical questions, we sh
         * advantages / disadvantages
       
       Questions related with Web Assemble.
-      
-      Web Assemble
-        * toolchain
-          * emscripten
-          * clang
-          * llvm
-        * Detailed description of webassembly work.
-        * etc.
+     
+      * toolchain
+        * emscripten
+        * clang
+        * llvm
+      * Detailed description of webassembly work.
+      * etc.
       
 #### Common questions
 
