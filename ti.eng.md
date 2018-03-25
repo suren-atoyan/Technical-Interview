@@ -126,13 +126,16 @@ To illustrate the organization of correct sequence of technical questions, we sh
       * Automate Memory Management - GC
         * Comparison with manual memory management
         * advantages / disadvantages
-      * Web Assemble
+      
+      Questions related with Web Assemble.
+      
+      Web Assemble
         * toolchain
           * emscripten
           * clang
           * llvm
         * Detailed description of webassembly work.
-      * etc.
+        * etc.
       
 #### Common questions
 
