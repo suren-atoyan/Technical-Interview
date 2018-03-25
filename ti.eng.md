@@ -34,7 +34,7 @@ The technical interview as a process pursues the following purpose:
 Passing methods
 ========
 
-The main techniques for conducting a technical interview are "Oral", "Test Quiz" and "Technical Task". Any method has its purpose and order  form of conduct. The above mentioned can be conducted as separate stages in different sequences orders. Depending on company requirements “Test Quiz” and “Technical Task” may be missed. As a rule, the essential and minimal consisting part of the technical interview is the oral technical interview, and the main stages are considered the "Oral" and "Technical Task".
+The main techniques for conducting a technical interview are "Oral", "Test Quiz" and "Technical Task". Any method has its purpose and order  form of conduct. The above mentioned can be conducted as separate stages in different orders. Depending on company requirements “Test Quiz” and “Technical Task” may be missed. As a rule, the essential and minimal consisting part of the technical interview is the oral technical interview, and the main stages are considered the "Oral" and "Technical Task".
 
 ### Oral Technical Interview
 
