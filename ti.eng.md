@@ -267,7 +267,7 @@ Based on the assessment of the tech. specialist, the company may employ the appl
 Disclaimer
 ========
 
-The document does not aim to compile an ordered process of technical interview or interviewing stages for specific programming language, technology or company. The above mentioned points are the main clauses for technical interviews in IT. JavaScript is just an example. (For more detailed JavaScript questionnaire please refer the following [file](https://github.com/SurenAt93/Technical-Interview/blob/master/javascript.md) as an interview guide). The author tried not to define the stages of technical interview for keeping the document flexibility. The number and sequence of interview stages may vary depending on the programming language, the technology, the applicant's technical level, the company requirements and resources. The above mentioned points will be considered accurate also for the interviews related to specific libraries or frameworks. For example:  
+The document does not aim to compile an ordered process of technical interview or interviewing stages for specific programming language, technology or company. The above mentioned points are the main clauses for technical interviews in IT. JavaScript is just an example. The author tried not to define the stages of technical interview for keeping the document flexibility. The number and sequence of interview stages may vary depending on the programming language, the technology, the applicant's technical level, the company requirements and resources. The above mentioned points will be considered accurate also for the interviews related to specific libraries or frameworks. For example:  
 
 JavaScript - ReactJs / NodeJs and etc.  
 Python - Django and etc.  
