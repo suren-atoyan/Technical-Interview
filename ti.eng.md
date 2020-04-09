@@ -2,7 +2,7 @@
 
 ###### **Description**: This document is a definition of "Technical interview", forms of implementation, methods of application, importance and includes general advice.
 
-###### **Note**: The material is formed based on my experience of more than 150 technical interviews I have conducted and on feedback from applicants.
+###### **Note**: The material is formed based on my experience of more than 250 technical interviews I have conducted and on feedback from applicants.
 - - - -
 
 Contents
